@@ -1,2 +1,3 @@
 Ch1)커널,라이브러리,100
 Ch2)xx,key,2
+Ch3)merge,cp949,d
