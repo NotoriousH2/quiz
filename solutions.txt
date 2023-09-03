@@ -1,3 +1,4 @@
 Ch1)커널,import,100
 Ch2)xx,key,2
-Ch3)merge,cp949,d
+Ch3)4,cp949,d
+Ch4)merge,2500,4
